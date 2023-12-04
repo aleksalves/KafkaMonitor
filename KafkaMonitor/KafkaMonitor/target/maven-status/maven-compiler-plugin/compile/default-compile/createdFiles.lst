@@ -1,0 +1,4 @@
+com\aleks\KafkaMonitor\config\OffSetConsumer.class
+com\aleks\KafkaMonitor\Runnable\LagAnalyzerThread.class
+com\aleks\KafkaMonitor\KafkaMonitorApplication.class
+com\aleks\KafkaMonitor\Monitor\Monitor.class
